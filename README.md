@@ -1,6 +1,6 @@
 ![Thiago Marinho](https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500)
 
-# Relay - Step by Stel
+# Relay - Step by Step
 
 > I was learning basics concepts of Relay
 
